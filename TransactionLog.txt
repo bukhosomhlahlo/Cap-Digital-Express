@@ -11,3 +11,109 @@ Deposit: 500.0
 Deposit: 0.5
 Withdrawal: 250.05
 Withdrawal: 92.5
+Deposit: 1550.5
+Deposit: 1000000.0
+Withdrawal: 1000000.0
+Withdrawal: 5.0
+Deposit: 1000000.0
+Withdrawal: 250000.0
+Withdrawal: 250000.0
+Withdrawal: 250000.0
+Withdrawal: 250000.0
+Deposit: 50.0
+Withdrawal: 10.0
+Deposit: 50.0
+Deposit: 500.0
+Withdrawal: 100.0
+Withdrawal: 90.0
+Deposit: 5000.0
+Realeboga: Deposit: 25000.0
+Realeboga: Withdrawal: 10000.0
+Realeboga: Deposit: 29000.0
+Realeboga: Withdrawal: 2662.0
+Bukho: Deposit: 1964.0
+Onwaba: Deposit: 48198.0
+Onwaba: Withdrawal: 453.5
+Realeboga: Withdrawal: 2000.0
+Mbasa: Deposit: 45.445
+Mbasa: Withdrawal: 21.8
+Bukho: Deposit: 10000.0
+Bukho: Withdrawal: 5000.0
+Nomtha: Deposit: 1000.0
+Nomtha: Withdrawal: 150.0
+Rea: Deposit: 15100.0
+Rea: Withdrawal: 1000.0
+Rea: Withdrawal: 1500.0
+Rea: Withdrawal: 5000.0
+Bukho: Deposit: 25000.0
+Bukho: Withdrawal: 11232.0
+Bukho: Withdrawal: 1000.0
+Bukho: Deposit: 1223.0
+Bukho: Withdrawal: 2000.0
+Bukho: Withdrawal: 1000.0
+Esekho: Deposit: 10000.0
+Esekho: Withdrawal: 2500.0
+Bongeka: Deposit: 5743.0
+Bongeka: Withdrawal: 222.0
+Samantha: Deposit: 20000.0
+Samantha: Withdrawal: 15000.0
+Five: Deposit: 1000.0
+Five: Withdrawal: 200.0
+Bukho: Deposit: 77.0
+Bukho: Deposit: 1200.0
+Bukho: Withdrawal: 200.0
+Samantha: Deposit: 1000.0
+Samantha: Withdrawal: 256.0
+Mnombo: Deposit: 5000000.0
+Mnombo: Withdrawal: 2107968.0
+Mnombo: Withdrawal: 2000000.0
+Brandon: Deposit: 2000.0
+Brandon: Withdrawal: 1235.36
+Brandon: Deposit: 1000.0
+Brandon: Withdrawal: 200.0
+Onwaba: Deposit: 4544.0
+Onwaba: Withdrawal: 441.0
+Nomtha: Deposit: 5000.0
+Nomtha: Withdrawal: 2000.0
+Solulele: Deposit: 20000.0
+Solulele: Withdrawal: 2000.0
+Samantha: Deposit: 900.0
+Samantha: Withdrawal: 200.0
+Samantha: Withdrawal: 250.0
+Samantha: Deposit: 810.0
+Samantha: Withdrawal: 1000.0
+Samantha: Withdrawal: 100.0
+Samantha: Deposit: 200.0
+Samantha: Withdrawal: 100.0
+Samantha: Deposit: 3600.0
+Samantha: Withdrawal: 200.0
+Samantha: Deposit: 55.0
+Samantha: Deposit: 6.0
+Samantha: Deposit: 1000.0
+Samantha: Deposit: 100.0
+Samantha: Deposit: 22000.0
+Samantha: Deposit: 10.0
+Samantha: Withdrawal: 2000.0
+Samantha: Withdrawal: 19999.0
+Nomtha: Deposit: 200.0
+Nomtha: Withdrawal: 100.0
+Dzana: Deposit: 300000.0
+Dzana: Withdrawal: 100000.0
+Dzana: Withdrawal: 50000.0
+Mbasa: Deposit: 1212.0
+Bukho: Deposit: 50.0
+Bukho: Deposit: 100.0
+Bukho: Withdrawal: 20.0
+Bukho: Deposit: 500.0
+Bukho: Withdrawal: 200.0
+Bukho: Deposit: 100.0
+Bukho: Deposit: 100.0
+Bukho: Deposit: 100.0
+Bukho: Withdrawal: 200.0
+Mbasa: Deposit: 2000.0
+Mbasa: Withdrawal: 1000.0
+Sam: Deposit: 200.0
+Jack: Deposit: 200.0
+Jack: Withdrawal: 39.0
+gg: Deposit: 500.0
+gg: Withdrawal: 500.0
